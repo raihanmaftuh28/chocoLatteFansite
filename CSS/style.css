@@ -1,0 +1,68 @@
+body{
+  background-color: #D7B19D;
+  font-family: "Century Gothic", Times, serif
+}
+h1{
+  color: #402218;
+  font-size: 100px;
+  letter-spacing: -5px;
+  margin : auto;
+  text-align: center;
+}
+h2{
+  color: #402218;
+  font-size: 48px;
+  letter-spacing: -1px;
+  margin : auto;
+  text-align: center;
+}
+.deskripsi{
+  color : #402218;
+  font-size: 25px;
+  font-weight: bold;
+}
+.harga {
+  color : #402218;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 250px;
+  border-radius: 10px;
+  margin-top: 1%;
+}
+audio{
+margin:auto;
+display: block;
+}
+.perkenalan{
+  margin-left: 20%;
+  margin-right: 10%;
+}
+.barang{
+  border-spacing: 50px;
+  border-collapse: collapse;
+  width: 43%;
+  margin-left: auto;
+  margin-right: auto;
+}
+td{
+  padding:10px
+}
+hr {
+  border-top-style: dotted;
+  border-bottom-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-color: #865439;
+  border-width: 30px;
+  margin-top: 30px;
+  margin-bottom: 1%;
+  margin-left: 45%;
+  margin-right: 45%;
+}
